@@ -1,2 +1,5 @@
-# burendo-repo-template
-This repo contains Makefile to fit the standard pattern. This repo is a base to create new non-Terraform repos, adding the githooks submodule, making the repo ready for use.  After cloning this repo, please run: make bootstrap
+# talks
+
+This repo contains slide decks and other supporting materials for talks we deliver.
+
+If you'd like us to present at your conference or event, please get in touch with @kevinkuszyk or @ChrisScottThomas.
