@@ -11,6 +11,8 @@ This folder contains the slide deck and links / references used in the talk.
 We've delivered this talk at the following conferences / events:
 
 - DTX Manchester, 18th May 2023
+- Leeds Digital Festival, 21st September 2023
+- AWS User Group (Leeds), 29th November 2023
 
 If you'd like us to present at your conference / user group, please get in touch with @kevinkuszyk.
 
@@ -27,6 +29,7 @@ This section contains the links referenced in the talk.
 - [Immunisation History - FHIR API](https://digital.nhs.uk/developer/api-catalogue/immunisation-history-fhir)
 - [Ambulance Data Submission - FHIR API](https://digital.nhs.uk/developer/api-catalogue/ambulance-data-submission-fhir)
 - [National Record Locator](https://github.com/NHSDigital/NRLF)
+- [UKHSA data dashboard](https://ukhsa-dashboard.data.gov.uk)
 
 ## Resources
 
