@@ -6,6 +6,12 @@
 
 This folder contains the slide deck and links / references used in the talk.
 
+## Upcoming
+
+We'll be presenting this talk at the following upcoming events:
+
+- Yorkshire DevOps, 26th April 2024
+
 ## History
 
 We've delivered this talk at the following conferences / events:
