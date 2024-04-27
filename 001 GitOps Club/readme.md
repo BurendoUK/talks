@@ -10,7 +10,7 @@ This folder contains the slide deck and links / references used in the talk.
 
 We'll be presenting this talk at the following upcoming events:
 
-- Yorkshire DevOps, 26th April 2024
+- Yorkshire DevOps, 14th May 2024
 
 ## History
 
