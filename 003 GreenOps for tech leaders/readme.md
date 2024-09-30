@@ -28,7 +28,9 @@ This section contains the links referenced in the talk.
 
 - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org)
 - [Electricity maps](https://app.electricitymaps.com/map)
+- [How Bad Are Bananas?](https://www.amazon.co.uk/How-Bad-Are-Bananas-everything/dp/1788163818/)
 - [How to select a Region for your workload based on sustainability goals](https://aws.amazon.com/blogs/architecture/how-to-select-a-region-for-your-workload-based-on-sustainability-goals/)
+- [There Is No Planet B](https://www.amazon.co.uk/There-No-Planet-Handbook-Updated/dp/110882157X/)
 - [UKHSA data dashboard](https://ukhsa-dashboard.data.gov.uk/)
 - [Understanding the customer carbon footprint tool](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ccft-overview.html)
 - [Well Architected Framework Documentation](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
